@@ -1,0 +1,25 @@
+  ---
+2015-05-12 22:57:12 Start: ver. 2.07 20150315; PID = 8030
+  stats period = 8s, connection check period = 32s
+  Monthly stats file (/home/pi/3g/umtskeeper.monthly.csv) not found, setting up a new one.
+  Daily stats file (/home/pi/3g/umtskeeper.daily.csv) not found, setting up a new one.
+  Hourly stats file (/home/pi/3g/umtskeeper.hourly.csv) not found, setting up a new one.
+  Internet status:
+  Network link status on ppp0: unknown
+  Cell network: Error 126 occurred: Undefined error (126)
+2015-05-12 22:57:12 Program startup. Calling Sakis3G connect, to be sure...
+  Sakis3G cmdLine: nice /home/pi/3g/sakis3g connect --sudo --console USBINTERFACE='0' OTHER='USBMODEM' USBMODEM='12d1:1001' APN='CUSTOM_APN' CUSTOM_APN='internet' SIM_PIN='1234' APN_USER='megafon' APN_PASS='megafon'
+  Sakis3G says...
+  Error: nice: /home/pi/3g/sakis3g: Permission denied
+
+2015-05-12 22:57:12 Undefined error (126)
+2015-05-12 22:57:12 Testing connection...
+2015-05-12 22:57:12 Unable to establish Internet connection. Will keep trying...
+  Sakis3G info:
+  Network link status on ppp0: unknown
+  Cell network: Error 126 occurred: Undefined error (126)
+2015-05-12 22:57:14 (PID: 8030): Caught signal 2 (SIGINT)
+2015-05-12 22:57:14 (PID: 8030): Program terminated cleanly.
+  ---
+2015-05-12 23:03:14 Start: ver. 2.07 20150315; PID = 16311
+2015-05-12 23:03:14 (PID: 16311): Program terminated cleanly.
