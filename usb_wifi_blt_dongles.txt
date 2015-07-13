@@ -1,0 +1,8 @@
+nano, 300 rub, bites wfa150-01, ralink RL5370, Supported interface modes: IBSS, managed, AP, AP/VLAN, WDS, monitor, mesh point
+http://www.ebay.com/sch/i.html?_nkw=Ralink%20RT5370 - от 183 руб 3.39$
+маленькая перая купленная, подписана old RTL8188CUS подходит для подключения к wi-fi, но плохая антена
+большой с антенной tp-link TL-WN722N AR9271, не подходит, сети видит хорошо, но не подключается
+средняя tp-link TL-WN823N RTL8192CU - тоже самое
+большой без антенны tp-link TL-WN821N RTL8192CU - подключается к сети, но через раз
+черный с антенной 5bites WFA300-02A RTL8191SU коннектится и отлично видит все сети, самый быстрый пинг, но монитор не добавляется
+маленький tp-link TL-WN725N не видит
